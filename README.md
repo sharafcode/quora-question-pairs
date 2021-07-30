@@ -6,6 +6,9 @@ NLP project, trying and experimenting different approaches to solve the quora qu
 ![alt text](/imgs/main_project_pipeline.png)
 
 # Run the inference model
+
+![alt text](/imgs/try_model_black_box.gif)
+
 1. **Make sure to pip install the model requirements**
 (on python 3.6 - 3.9)
 ```
